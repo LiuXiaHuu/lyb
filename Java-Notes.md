@@ -13,4 +13,5 @@
       @author ...  
       @version  ...
       内容
-   */    javadoc -d 文件夹名 -author -version 程序名
+   */
+   javadoc -d 文件夹名 -author -version 程序名
