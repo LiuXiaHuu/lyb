@@ -1,4 +1,4 @@
-# SSM：spring  springMVC  mybatis
+SSM：spring  springMVC  mybatis
 面向对象编程：类/对象、类的结构、三大特征、接口、设计模式
 java特点：
     1、面向对象   基本概念(类、对象） 三大特性（继承、封装、多态）
