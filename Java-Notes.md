@@ -8,3 +8,9 @@
 	  byte、boolean 8位（1字节）、char、short、int 32位（4字节）、float、long、double
 # jdk  
     bin：开发工具  db：数据库  jre：java运行环境  lib：jar包
+# 文本注释
+   /** 
+      @author ...  
+      @version  ...
+      内容
+   */    javadoc -d 文件夹名 -author -version 程序名
