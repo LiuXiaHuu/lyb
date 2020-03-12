@@ -15,3 +15,6 @@
       内容
    */
    javadoc -d 文件夹名 -author -version 程序名
+# 
+在一个源文件中可以声明多个class，但是最多只能有一个为public修饰，声明为public的类的类名必须与源文件名相同
+main()方法为程序入口，格式固定   public static void main（String[] args）{}
