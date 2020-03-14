@@ -28,4 +28,12 @@
 	类名、接口名：每个单词首字母大写，其他小写 AaaBbbCcc
 	变量名、方法名：多单词组成时，第一个单词全小写，之后单词首字母大写 aaaBbbCcc
 	常量名：所有单词大写，多单词组成时，用下划线连接 AAA_BBB_CCC
-	
+# 变量
+	1、基本数据类型
+    	数值型：整数类型（byte short int long） 浮点类型(float double)
+    	字符型：char
+    	布尔型：boolean
+ 	2、引用数据类型
+    	类（class） 接口（interface） 数组（[]）
+
+
