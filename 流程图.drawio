@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T03:28:55.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="vDRv0E9ZP2XWWQZZ2q-l" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T03:49:04.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mXl3JUPHiD9A3MPy83il" version="21.3.2" type="github">
   <diagram name="第 1 页" id="69bavuT4Y6ZkjZBTgYTI">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-1" value="集团原子能力平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-2" value="万维安全原子能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oKS_MSQMzxRkG_n-hq2M-2" target="oKS_MSQMzxRkG_n-hq2M-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="sourcePoint" />
+            <mxPoint x="460" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-5" value="上架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-7" value="信产/信产分公司&lt;br&gt;（获得安全服务能力）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oKS_MSQMzxRkG_n-hq2M-1" target="oKS_MSQMzxRkG_n-hq2M-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="sourcePoint" />
+            <mxPoint x="460" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-9" value="购买" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-13" value="安全门户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-16" value="万维/信产侧人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="269" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oKS_MSQMzxRkG_n-hq2M-16" target="oKS_MSQMzxRkG_n-hq2M-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="311" as="sourcePoint" />
+            <mxPoint x="520" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-18" value="前期由万维人员创建订单&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;后期可由信产侧进行&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="447" y="261" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-23" value="推广客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="420" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oKS_MSQMzxRkG_n-hq2M-7" target="oKS_MSQMzxRkG_n-hq2M-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="310" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oKS_MSQMzxRkG_n-hq2M-23" target="oKS_MSQMzxRkG_n-hq2M-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="350" as="sourcePoint" />
+            <mxPoint x="420" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-26" value="后台合同管理" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="394" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-27" value="合同编号" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oKS_MSQMzxRkG_n-hq2M-26">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-28" value="原子能力编号" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oKS_MSQMzxRkG_n-hq2M-26">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-29" value="服务内容" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oKS_MSQMzxRkG_n-hq2M-26">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-30" value="签订合同" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oKS_MSQMzxRkG_n-hq2M-7" target="oKS_MSQMzxRkG_n-hq2M-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="310" as="sourcePoint" />
+            <mxPoint x="590" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oKS_MSQMzxRkG_n-hq2M-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="310" as="sourcePoint" />
+            <mxPoint x="870" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-36" value="生成订单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="782" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oKS_MSQMzxRkG_n-hq2M-27" target="oKS_MSQMzxRkG_n-hq2M-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="310" as="sourcePoint" />
+            <mxPoint x="940" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-41" value="后台订单管理" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="240" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-42" value="合同编号" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oKS_MSQMzxRkG_n-hq2M-41">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-43" value="原子能力编号" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oKS_MSQMzxRkG_n-hq2M-41">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKS_MSQMzxRkG_n-hq2M-44" value="服务内容" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oKS_MSQMzxRkG_n-hq2M-41">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
