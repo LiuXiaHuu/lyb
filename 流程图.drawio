@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T09:25:27.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0VUh6-UN1mbbNvrvv-3_" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T09:31:46.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tLToVqxHrHxTScpKLL2h" version="21.3.2" type="github">
   <diagram name="第 1 页" id="69bavuT4Y6ZkjZBTgYTI">
     <mxGraphModel dx="1075" dy="479" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry x="241" y="966" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oKS_MSQMzxRkG_n-hq2M-54" value="&lt;b&gt;信产分公司&lt;br&gt;（获得安全服务能力）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1079" width="140" height="38" as="geometry" />
+          <mxGeometry x="91" y="1079" width="140" height="38" as="geometry" />
         </mxCell>
         <mxCell id="oKS_MSQMzxRkG_n-hq2M-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;shadow=0;" edge="1" parent="1" source="oKS_MSQMzxRkG_n-hq2M-50" target="oKS_MSQMzxRkG_n-hq2M-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -152,7 +152,7 @@
           <mxGeometry x="452" y="1060" width="150" height="41" as="geometry" />
         </mxCell>
         <mxCell id="oKS_MSQMzxRkG_n-hq2M-61" value="&lt;b&gt;用户&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="89" y="1266" width="140" height="38" as="geometry" />
+          <mxGeometry x="91" y="1267" width="140" height="38" as="geometry" />
         </mxCell>
         <mxCell id="oKS_MSQMzxRkG_n-hq2M-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;shadow=0;" edge="1" parent="1" source="oKS_MSQMzxRkG_n-hq2M-54" target="oKS_MSQMzxRkG_n-hq2M-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -263,7 +263,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oKS_MSQMzxRkG_n-hq2M-106" value="查看服务情况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="312" y="1175" width="90" height="26" as="geometry" />
+          <mxGeometry x="309" y="1181" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
